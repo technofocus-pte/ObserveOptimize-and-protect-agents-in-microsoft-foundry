@@ -1,11 +1,5 @@
 
-<p align="center">
-<img src="img/banner-build-26.png" alt="Microsoft Build 2026" width="1200"/>
-</p>
-
-# [Microsoft Build 2026](https://build.microsoft.com)
-
-## LAB540: Observe. Optimize and Protect Your Hosted Agents in Microsoft Foundry
+## Observe. Optimize and Protect Your Hosted Agents in Microsoft Foundry
 
 ### Session Description
 
